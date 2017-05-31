@@ -3,7 +3,7 @@
 <div><a href="http://www.xyslovekw.top/dist">在线演示</a></div>
 <div><a href="http://www.xyslovekw.top/android.rar">android版下载(混合app)</a></div>
 <div><a href="http://www.xyslovekw.top/ios.rar">ios版下载(混合app)</a></div>
-<div>主要技术栈</div>
+<div style="margin-top:40px">主要技术栈</div>
 <ul>
 <li>vuejs2.0</li>
 <li>vue-resource</li>
