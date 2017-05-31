@@ -43,8 +43,4 @@
   </body>
 </html>
 
-<style>
-.imgs{
-  margin-top:100px;
-}
-</style>
+
