@@ -15,5 +15,30 @@
       <li>mint-ui</li>
       </ul>
       <h1>项目截图：</h1>
+      <div>
+         <a href="http://www.xyslovekw.top/1.png">
+            <img src="http://www.xyslovekw.top/1.png">
+         </a>
+      </div>
+      <div>
+         <a href="http://www.xyslovekw.top/2.png">
+            <img src="http://www.xyslovekw.top/2.png">
+         </a>
+      </div>
+      <div>
+         <a href="http://www.xyslovekw.top/3.png">
+            <img src="http://www.xyslovekw.top/3.png">
+         </a>
+      </div>
+      <div>
+         <a href="http://www.xyslovekw.top/4.png">
+            <img src="http://www.xyslovekw.top/4.png">
+         </a>
+      </div>
+      <div>
+         <a href="http://www.xyslovekw.top/5.png">
+            <img src="http://www.xyslovekw.top/5.png">
+         </a>
+      </div>
   </body>
 </html>
